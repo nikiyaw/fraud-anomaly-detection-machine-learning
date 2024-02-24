@@ -6,6 +6,9 @@ The goal of the project is to compare various machine learning models and find t
 ## Tools and Programming Language(s)
 Python, Tensorflow, Scikit-learn, Numpy, Pandas, Jupyter
 
+## Data source
+Kaggle: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 ## Process
 
 ## Results
