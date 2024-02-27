@@ -28,7 +28,6 @@ Advanced ML notebook:
 - Compares 4 classifiers: SGD, Random Forest, Logistic Regression, KNN
 
 
-## Results
 
 ## Resources
 https://github.com/sagnikghoshcr7/Credit-Card-Fraud-Detection/tree/master
