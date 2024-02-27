@@ -13,3 +13,5 @@ Kaggle: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)https://www.kagg
 
 ## Results
 
+## Resources
+https://github.com/sagnikghoshcr7/Credit-Card-Fraud-Detection/tree/master
